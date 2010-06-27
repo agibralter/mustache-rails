@@ -20,7 +20,8 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/mustache-rails.rb",
-     "lib/mustache/rails.rb"
+     "lib/mustache/rails.rb",
+     "mustache-rails.gemspec"
   ]
   s.homepage = %q{http://github.com/agibralter/mustache-rails}
   s.rdoc_options = ["--charset=UTF-8"]
